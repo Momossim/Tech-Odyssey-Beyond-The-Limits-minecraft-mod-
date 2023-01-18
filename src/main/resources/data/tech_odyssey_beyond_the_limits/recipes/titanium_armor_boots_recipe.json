@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "tech_odyssey_beyond_the_limits:titanium_ingot"
+    },
+    "2": {
+      "item": "tech_odyssey_beyond_the_limits:titanium_ingot"
+    },
+    "3": {
+      "item": "tech_odyssey_beyond_the_limits:titanium_ingot"
+    },
+    "5": {
+      "item": "tech_odyssey_beyond_the_limits:titanium_ingot"
+    }
+  },
+  "result": {
+    "item": "tech_odyssey_beyond_the_limits:titanium_armor_boots",
+    "count": 1
+  }
+}

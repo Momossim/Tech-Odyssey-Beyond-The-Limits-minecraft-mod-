@@ -1,1 +1,14 @@
-{}
+{
+  "item.tech_odyssey_beyond_the_limits.titanium_ingot": "Titanium",
+  "item.tech_odyssey_beyond_the_limits.titanium_hoe": "Titanium Hoe",
+  "block.tech_odyssey_beyond_the_limits.titanium_ore": "Titanium Ore",
+  "item.tech_odyssey_beyond_the_limits.titanium_armor_boots": "Titanium Boots",
+  "block.tech_odyssey_beyond_the_limits.titanium_block": "Block of Titanium",
+  "item.tech_odyssey_beyond_the_limits.titanium_pickaxe": "Titanium Pickaxe",
+  "item.tech_odyssey_beyond_the_limits.titanium_armor_chestplate": "Titanium Chestplate",
+  "item.tech_odyssey_beyond_the_limits.titanium_armor_helmet": "Titanium Helmet",
+  "item.tech_odyssey_beyond_the_limits.titanium_armor_leggings": "Titanium Leggings",
+  "item.tech_odyssey_beyond_the_limits.titanium_axe": "Titanium Axe",
+  "item.tech_odyssey_beyond_the_limits.titanium_sword": "Titanium Sword",
+  "item.tech_odyssey_beyond_the_limits.titanium_shovel": "Titanium Shovel"
+}

@@ -1,9 +1,197 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "TitaniumIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ingot"
+    },
+    {
+      "name": "TitaniumOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ore"
+    },
+    {
+      "name": "TitaniumBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_block"
+    },
+    {
+      "name": "TitaniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ore_block_recipe"
+    },
+    {
+      "name": "TitaniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_block_ore_recipe"
+    },
+    {
+      "name": "TitaniumOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ore_smelting"
+    },
+    {
+      "name": "TitaniumPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_pickaxe"
+    },
+    {
+      "name": "TitaniumAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_axe"
+    },
+    {
+      "name": "TitaniumSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_sword"
+    },
+    {
+      "name": "TitaniumShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_shovel"
+    },
+    {
+      "name": "TitaniumHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_hoe"
+    },
+    {
+      "name": "TitaniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_pickaxe_recipe"
+    },
+    {
+      "name": "TitaniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_axe_recipe"
+    },
+    {
+      "name": "TitaniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_sword_recipe"
+    },
+    {
+      "name": "TitaniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_shovel_recipe"
+    },
+    {
+      "name": "TitaniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_hoe_recipe"
+    },
+    {
+      "name": "TitaniumArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TitaniumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_armor_helmet_recipe"
+    },
+    {
+      "name": "TitaniumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_armor_body_recipe"
+    },
+    {
+      "name": "TitaniumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_armor_leggings_recipe"
+    },
+    {
+      "name": "TitaniumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_armor_boots_recipe"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.tech_odyssey_beyond_the_limits.titanium_ingot": "Titanium",
+      "item.tech_odyssey_beyond_the_limits.titanium_hoe": "Titanium Hoe",
+      "block.tech_odyssey_beyond_the_limits.titanium_ore": "Titanium Ore",
+      "item.tech_odyssey_beyond_the_limits.titanium_armor_boots": "Titanium Boots",
+      "block.tech_odyssey_beyond_the_limits.titanium_block": "Block of Titanium",
+      "item.tech_odyssey_beyond_the_limits.titanium_pickaxe": "Titanium Pickaxe",
+      "item.tech_odyssey_beyond_the_limits.titanium_armor_chestplate": "Titanium Chestplate",
+      "item.tech_odyssey_beyond_the_limits.titanium_armor_helmet": "Titanium Helmet",
+      "item.tech_odyssey_beyond_the_limits.titanium_armor_leggings": "Titanium Leggings",
+      "item.tech_odyssey_beyond_the_limits.titanium_axe": "Titanium Axe",
+      "item.tech_odyssey_beyond_the_limits.titanium_sword": "Titanium Sword",
+      "item.tech_odyssey_beyond_the_limits.titanium_shovel": "Titanium Shovel"
+    }
   },
   "foldersRoot": {
     "name": "~",
