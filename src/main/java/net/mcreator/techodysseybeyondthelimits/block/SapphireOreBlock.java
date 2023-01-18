@@ -44,7 +44,7 @@ public class SapphireOreBlock extends TechOdysseyBeyondTheLimitsModElements.ModE
 	public static final Block block = null;
 
 	public SapphireOreBlock(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 86);
+		super(instance, 11);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

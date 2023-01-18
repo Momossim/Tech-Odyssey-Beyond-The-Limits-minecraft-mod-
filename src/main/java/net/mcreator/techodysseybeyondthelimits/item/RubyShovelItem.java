@@ -18,7 +18,7 @@ public class RubyShovelItem extends TechOdysseyBeyondTheLimitsModElements.ModEle
 	public static final Item block = null;
 
 	public RubyShovelItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 31);
+		super(instance, 19);
 	}
 
 	@Override

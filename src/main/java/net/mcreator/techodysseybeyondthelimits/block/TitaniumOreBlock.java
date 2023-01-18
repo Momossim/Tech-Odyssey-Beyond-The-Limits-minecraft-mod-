@@ -49,7 +49,7 @@ public class TitaniumOreBlock extends TechOdysseyBeyondTheLimitsModElements.ModE
 	public static final Block block = null;
 
 	public TitaniumOreBlock(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 2);
+		super(instance, 5);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

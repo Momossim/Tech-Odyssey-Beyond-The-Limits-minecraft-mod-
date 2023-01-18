@@ -18,7 +18,7 @@ public class RubySwordItem extends TechOdysseyBeyondTheLimitsModElements.ModElem
 	public static final Item block = null;
 
 	public RubySwordItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 30);
+		super(instance, 31);
 	}
 
 	@Override
@@ -33,7 +33,7 @@ public class RubySwordItem extends TechOdysseyBeyondTheLimitsModElements.ModElem
 			}
 
 			public float getAttackDamage() {
-				return 0f;
+				return 5f;
 			}
 
 			public int getHarvestLevel() {

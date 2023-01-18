@@ -18,7 +18,7 @@ public class SapphirePickaxeItem extends TechOdysseyBeyondTheLimitsModElements.M
 	public static final Item block = null;
 
 	public SapphirePickaxeItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 91);
+		super(instance, 25);
 	}
 
 	@Override

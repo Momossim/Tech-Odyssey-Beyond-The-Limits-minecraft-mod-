@@ -18,7 +18,7 @@ public class PeridotHoeItem extends TechOdysseyBeyondTheLimitsModElements.ModEle
 	public static final Item block = null;
 
 	public PeridotHoeItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 74);
+		super(instance, 24);
 	}
 
 	@Override

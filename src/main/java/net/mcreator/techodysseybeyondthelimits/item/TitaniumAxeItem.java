@@ -18,7 +18,7 @@ public class TitaniumAxeItem extends TechOdysseyBeyondTheLimitsModElements.ModEl
 	public static final Item block = null;
 
 	public TitaniumAxeItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 8);
+		super(instance, 14);
 	}
 
 	@Override
@@ -33,7 +33,7 @@ public class TitaniumAxeItem extends TechOdysseyBeyondTheLimitsModElements.ModEl
 			}
 
 			public float getAttackDamage() {
-				return 1f;
+				return 10f;
 			}
 
 			public int getHarvestLevel() {

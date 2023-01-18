@@ -27,7 +27,7 @@ public class SapphireBlockBlock extends TechOdysseyBeyondTheLimitsModElements.Mo
 	public static final Block block = null;
 
 	public SapphireBlockBlock(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 87);
+		super(instance, 12);
 	}
 
 	@Override

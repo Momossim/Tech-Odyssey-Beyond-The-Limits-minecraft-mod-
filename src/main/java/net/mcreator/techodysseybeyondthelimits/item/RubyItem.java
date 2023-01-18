@@ -18,7 +18,7 @@ public class RubyItem extends TechOdysseyBeyondTheLimitsModElements.ModElement {
 	public static final Item block = null;
 
 	public RubyItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 22);
+		super(instance, 2);
 	}
 
 	@Override

@@ -18,7 +18,7 @@ public class PeridotPickaxeItem extends TechOdysseyBeyondTheLimitsModElements.Mo
 	public static final Item block = null;
 
 	public PeridotPickaxeItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 70);
+		super(instance, 21);
 	}
 
 	@Override

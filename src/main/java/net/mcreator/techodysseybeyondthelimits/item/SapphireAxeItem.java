@@ -18,7 +18,7 @@ public class SapphireAxeItem extends TechOdysseyBeyondTheLimitsModElements.ModEl
 	public static final Item block = null;
 
 	public SapphireAxeItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 92);
+		super(instance, 26);
 	}
 
 	@Override
@@ -33,7 +33,7 @@ public class SapphireAxeItem extends TechOdysseyBeyondTheLimitsModElements.ModEl
 			}
 
 			public float getAttackDamage() {
-				return 0f;
+				return 8f;
 			}
 
 			public int getHarvestLevel() {

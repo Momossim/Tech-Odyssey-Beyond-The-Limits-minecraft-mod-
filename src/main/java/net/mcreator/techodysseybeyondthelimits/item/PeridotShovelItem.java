@@ -18,7 +18,7 @@ public class PeridotShovelItem extends TechOdysseyBeyondTheLimitsModElements.Mod
 	public static final Item block = null;
 
 	public PeridotShovelItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 73);
+		super(instance, 23);
 	}
 
 	@Override

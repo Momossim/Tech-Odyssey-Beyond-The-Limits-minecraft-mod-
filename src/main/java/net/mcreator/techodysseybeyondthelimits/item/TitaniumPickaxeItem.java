@@ -18,7 +18,7 @@ public class TitaniumPickaxeItem extends TechOdysseyBeyondTheLimitsModElements.M
 	public static final Item block = null;
 
 	public TitaniumPickaxeItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 7);
+		super(instance, 13);
 	}
 
 	@Override

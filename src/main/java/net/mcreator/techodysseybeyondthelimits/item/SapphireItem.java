@@ -18,7 +18,7 @@ public class SapphireItem extends TechOdysseyBeyondTheLimitsModElements.ModEleme
 	public static final Item block = null;
 
 	public SapphireItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 85);
+		super(instance, 4);
 	}
 
 	@Override

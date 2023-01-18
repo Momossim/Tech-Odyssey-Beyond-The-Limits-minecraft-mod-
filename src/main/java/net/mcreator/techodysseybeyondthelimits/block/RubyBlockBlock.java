@@ -27,7 +27,7 @@ public class RubyBlockBlock extends TechOdysseyBeyondTheLimitsModElements.ModEle
 	public static final Block block = null;
 
 	public RubyBlockBlock(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 24);
+		super(instance, 8);
 	}
 
 	@Override

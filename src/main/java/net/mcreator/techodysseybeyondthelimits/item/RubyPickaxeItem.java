@@ -18,7 +18,7 @@ public class RubyPickaxeItem extends TechOdysseyBeyondTheLimitsModElements.ModEl
 	public static final Item block = null;
 
 	public RubyPickaxeItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 28);
+		super(instance, 17);
 	}
 
 	@Override

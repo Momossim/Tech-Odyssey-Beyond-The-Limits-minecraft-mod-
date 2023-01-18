@@ -18,7 +18,7 @@ public class SapphireSwordItem extends TechOdysseyBeyondTheLimitsModElements.Mod
 	public static final Item block = null;
 
 	public SapphireSwordItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 93);
+		super(instance, 35);
 	}
 
 	@Override
@@ -33,7 +33,7 @@ public class SapphireSwordItem extends TechOdysseyBeyondTheLimitsModElements.Mod
 			}
 
 			public float getAttackDamage() {
-				return 0f;
+				return 5f;
 			}
 
 			public int getHarvestLevel() {

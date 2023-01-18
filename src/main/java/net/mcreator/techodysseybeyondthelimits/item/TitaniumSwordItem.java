@@ -18,7 +18,7 @@ public class TitaniumSwordItem extends TechOdysseyBeyondTheLimitsModElements.Mod
 	public static final Item block = null;
 
 	public TitaniumSwordItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 9);
+		super(instance, 29);
 	}
 
 	@Override
@@ -33,7 +33,7 @@ public class TitaniumSwordItem extends TechOdysseyBeyondTheLimitsModElements.Mod
 			}
 
 			public float getAttackDamage() {
-				return 1f;
+				return 6f;
 			}
 
 			public int getHarvestLevel() {

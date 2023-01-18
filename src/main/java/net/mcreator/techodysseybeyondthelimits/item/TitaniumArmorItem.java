@@ -30,7 +30,7 @@ public class TitaniumArmorItem extends TechOdysseyBeyondTheLimitsModElements.Mod
 	public static final Item boots = null;
 
 	public TitaniumArmorItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 17);
+		super(instance, 30);
 	}
 
 	@Override

@@ -44,7 +44,7 @@ public class RubyOreBlock extends TechOdysseyBeyondTheLimitsModElements.ModEleme
 	public static final Block block = null;
 
 	public RubyOreBlock(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 23);
+		super(instance, 7);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

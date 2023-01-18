@@ -11,7 +11,7 @@
     {
       "name": "TitaniumOre",
       "type": "block",
-      "sortid": 2,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_ore"
@@ -19,7 +19,7 @@
     {
       "name": "TitaniumBlock",
       "type": "block",
-      "sortid": 3,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_block"
@@ -27,7 +27,7 @@
     {
       "name": "TitaniumOreBlockRecipe",
       "type": "recipe",
-      "sortid": 4,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_ore_block_recipe"
@@ -35,7 +35,7 @@
     {
       "name": "TitaniumBlockOreRecipe",
       "type": "recipe",
-      "sortid": 5,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_block_ore_recipe"
@@ -43,7 +43,7 @@
     {
       "name": "TitaniumOreSmelting",
       "type": "recipe",
-      "sortid": 6,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_ore_smelting"
@@ -51,7 +51,7 @@
     {
       "name": "TitaniumPickaxe",
       "type": "tool",
-      "sortid": 7,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_pickaxe"
@@ -59,7 +59,7 @@
     {
       "name": "TitaniumAxe",
       "type": "tool",
-      "sortid": 8,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_axe"
@@ -67,7 +67,7 @@
     {
       "name": "TitaniumSword",
       "type": "tool",
-      "sortid": 9,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_sword"
@@ -75,7 +75,7 @@
     {
       "name": "TitaniumShovel",
       "type": "tool",
-      "sortid": 10,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_shovel"
@@ -83,7 +83,7 @@
     {
       "name": "TitaniumHoe",
       "type": "tool",
-      "sortid": 11,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_hoe"
@@ -91,7 +91,7 @@
     {
       "name": "TitaniumPickaxeRecipe",
       "type": "recipe",
-      "sortid": 12,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_pickaxe_recipe"
@@ -99,7 +99,7 @@
     {
       "name": "TitaniumAxeRecipe",
       "type": "recipe",
-      "sortid": 13,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_axe_recipe"
@@ -107,7 +107,7 @@
     {
       "name": "TitaniumSwordRecipe",
       "type": "recipe",
-      "sortid": 14,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_sword_recipe"
@@ -115,7 +115,7 @@
     {
       "name": "TitaniumShovelRecipe",
       "type": "recipe",
-      "sortid": 15,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_shovel_recipe"
@@ -123,7 +123,7 @@
     {
       "name": "TitaniumHoeRecipe",
       "type": "recipe",
-      "sortid": 16,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_hoe_recipe"
@@ -131,7 +131,7 @@
     {
       "name": "TitaniumArmor",
       "type": "armor",
-      "sortid": 17,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_armor",
@@ -145,7 +145,7 @@
     {
       "name": "TitaniumArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 18,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_armor_helmet_recipe"
@@ -153,7 +153,7 @@
     {
       "name": "TitaniumArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 19,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_armor_body_recipe"
@@ -161,7 +161,7 @@
     {
       "name": "TitaniumArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 20,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_armor_leggings_recipe"
@@ -169,7 +169,7 @@
     {
       "name": "TitaniumArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 21,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_armor_boots_recipe"
@@ -177,7 +177,7 @@
     {
       "name": "Ruby",
       "type": "item",
-      "sortid": 22,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby"
@@ -185,7 +185,7 @@
     {
       "name": "RubyOre",
       "type": "block",
-      "sortid": 23,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_ore"
@@ -193,7 +193,7 @@
     {
       "name": "RubyBlock",
       "type": "block",
-      "sortid": 24,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_block"
@@ -201,7 +201,7 @@
     {
       "name": "RubyOreBlockRecipe",
       "type": "recipe",
-      "sortid": 25,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_ore_block_recipe"
@@ -209,7 +209,7 @@
     {
       "name": "RubyBlockOreRecipe",
       "type": "recipe",
-      "sortid": 26,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_block_ore_recipe"
@@ -217,7 +217,7 @@
     {
       "name": "RubyOreSmelting",
       "type": "recipe",
-      "sortid": 27,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_ore_smelting"
@@ -225,7 +225,7 @@
     {
       "name": "RubyPickaxe",
       "type": "tool",
-      "sortid": 28,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_pickaxe"
@@ -233,7 +233,7 @@
     {
       "name": "RubyAxe",
       "type": "tool",
-      "sortid": 29,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_axe"
@@ -241,7 +241,7 @@
     {
       "name": "RubySword",
       "type": "tool",
-      "sortid": 30,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_sword"
@@ -249,7 +249,7 @@
     {
       "name": "RubyShovel",
       "type": "tool",
-      "sortid": 31,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_shovel"
@@ -257,7 +257,7 @@
     {
       "name": "RubyHoe",
       "type": "tool",
-      "sortid": 32,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_hoe"
@@ -265,7 +265,7 @@
     {
       "name": "RubyPickaxeRecipe",
       "type": "recipe",
-      "sortid": 33,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_pickaxe_recipe"
@@ -273,7 +273,7 @@
     {
       "name": "RubyAxeRecipe",
       "type": "recipe",
-      "sortid": 34,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_axe_recipe"
@@ -281,7 +281,7 @@
     {
       "name": "RubySwordRecipe",
       "type": "recipe",
-      "sortid": 35,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_sword_recipe"
@@ -289,7 +289,7 @@
     {
       "name": "RubyShovelRecipe",
       "type": "recipe",
-      "sortid": 36,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_shovel_recipe"
@@ -297,7 +297,7 @@
     {
       "name": "RubyHoeRecipe",
       "type": "recipe",
-      "sortid": 37,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_hoe_recipe"
@@ -305,7 +305,7 @@
     {
       "name": "RubyArmor",
       "type": "armor",
-      "sortid": 38,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_armor",
@@ -319,7 +319,7 @@
     {
       "name": "RubyArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 39,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_armor_helmet_recipe"
@@ -327,7 +327,7 @@
     {
       "name": "RubyArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 40,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_armor_body_recipe"
@@ -335,7 +335,7 @@
     {
       "name": "RubyArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 41,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_armor_leggings_recipe"
@@ -343,7 +343,7 @@
     {
       "name": "RubyArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 42,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruby_armor_boots_recipe"
@@ -351,7 +351,7 @@
     {
       "name": "Peridot",
       "type": "item",
-      "sortid": 64,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot"
@@ -359,7 +359,7 @@
     {
       "name": "PeridotOre",
       "type": "block",
-      "sortid": 65,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_ore"
@@ -367,7 +367,7 @@
     {
       "name": "PeridotBlock",
       "type": "block",
-      "sortid": 66,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_block"
@@ -375,7 +375,7 @@
     {
       "name": "PeridotOreBlockRecipe",
       "type": "recipe",
-      "sortid": 67,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_ore_block_recipe"
@@ -383,7 +383,7 @@
     {
       "name": "PeridotBlockOreRecipe",
       "type": "recipe",
-      "sortid": 68,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_block_ore_recipe"
@@ -391,7 +391,7 @@
     {
       "name": "PeridotOreSmelting",
       "type": "recipe",
-      "sortid": 69,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_ore_smelting"
@@ -399,7 +399,7 @@
     {
       "name": "PeridotPickaxe",
       "type": "tool",
-      "sortid": 70,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_pickaxe"
@@ -407,7 +407,7 @@
     {
       "name": "PeridotAxe",
       "type": "tool",
-      "sortid": 71,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_axe"
@@ -415,7 +415,7 @@
     {
       "name": "PeridotSword",
       "type": "tool",
-      "sortid": 72,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_sword"
@@ -423,7 +423,7 @@
     {
       "name": "PeridotShovel",
       "type": "tool",
-      "sortid": 73,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_shovel"
@@ -431,7 +431,7 @@
     {
       "name": "PeridotHoe",
       "type": "tool",
-      "sortid": 74,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_hoe"
@@ -439,7 +439,7 @@
     {
       "name": "PeridotPickaxeRecipe",
       "type": "recipe",
-      "sortid": 75,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_pickaxe_recipe"
@@ -447,7 +447,7 @@
     {
       "name": "PeridotAxeRecipe",
       "type": "recipe",
-      "sortid": 76,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_axe_recipe"
@@ -455,7 +455,7 @@
     {
       "name": "PeridotSwordRecipe",
       "type": "recipe",
-      "sortid": 77,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_sword_recipe"
@@ -463,7 +463,7 @@
     {
       "name": "PeridotShovelRecipe",
       "type": "recipe",
-      "sortid": 78,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_shovel_recipe"
@@ -471,7 +471,7 @@
     {
       "name": "PeridotHoeRecipe",
       "type": "recipe",
-      "sortid": 79,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_hoe_recipe"
@@ -479,7 +479,7 @@
     {
       "name": "PeridotArmor",
       "type": "armor",
-      "sortid": 80,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_armor",
@@ -493,7 +493,7 @@
     {
       "name": "PeridotArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 81,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_armor_helmet_recipe"
@@ -501,7 +501,7 @@
     {
       "name": "PeridotArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 82,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_armor_body_recipe"
@@ -509,7 +509,7 @@
     {
       "name": "PeridotArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 83,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_armor_leggings_recipe"
@@ -517,7 +517,7 @@
     {
       "name": "PeridotArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 84,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridot_armor_boots_recipe"
@@ -525,7 +525,7 @@
     {
       "name": "Sapphire",
       "type": "item",
-      "sortid": 85,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire"
@@ -533,7 +533,7 @@
     {
       "name": "SapphireOre",
       "type": "block",
-      "sortid": 86,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_ore"
@@ -541,7 +541,7 @@
     {
       "name": "SapphireBlock",
       "type": "block",
-      "sortid": 87,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_block"
@@ -549,7 +549,7 @@
     {
       "name": "SapphireOreBlockRecipe",
       "type": "recipe",
-      "sortid": 88,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_ore_block_recipe"
@@ -557,7 +557,7 @@
     {
       "name": "SapphireBlockOreRecipe",
       "type": "recipe",
-      "sortid": 89,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_block_ore_recipe"
@@ -565,7 +565,7 @@
     {
       "name": "SapphireOreSmelting",
       "type": "recipe",
-      "sortid": 90,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_ore_smelting"
@@ -573,7 +573,7 @@
     {
       "name": "SapphirePickaxe",
       "type": "tool",
-      "sortid": 91,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_pickaxe"
@@ -581,7 +581,7 @@
     {
       "name": "SapphireAxe",
       "type": "tool",
-      "sortid": 92,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_axe"
@@ -589,7 +589,7 @@
     {
       "name": "SapphireSword",
       "type": "tool",
-      "sortid": 93,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_sword"
@@ -597,7 +597,7 @@
     {
       "name": "SapphireShovel",
       "type": "tool",
-      "sortid": 94,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_shovel"
@@ -605,7 +605,7 @@
     {
       "name": "SapphireHoe",
       "type": "tool",
-      "sortid": 95,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_hoe"
@@ -613,7 +613,7 @@
     {
       "name": "SapphirePickaxeRecipe",
       "type": "recipe",
-      "sortid": 96,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_pickaxe_recipe"
@@ -621,7 +621,7 @@
     {
       "name": "SapphireAxeRecipe",
       "type": "recipe",
-      "sortid": 97,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_axe_recipe"
@@ -629,7 +629,7 @@
     {
       "name": "SapphireSwordRecipe",
       "type": "recipe",
-      "sortid": 98,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_sword_recipe"
@@ -637,7 +637,7 @@
     {
       "name": "SapphireShovelRecipe",
       "type": "recipe",
-      "sortid": 99,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_shovel_recipe"
@@ -645,7 +645,7 @@
     {
       "name": "SapphireHoeRecipe",
       "type": "recipe",
-      "sortid": 100,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_hoe_recipe"
@@ -653,7 +653,7 @@
     {
       "name": "SapphireArmor",
       "type": "armor",
-      "sortid": 101,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_armor",
@@ -667,7 +667,7 @@
     {
       "name": "SapphireArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 102,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_armor_helmet_recipe"
@@ -675,7 +675,7 @@
     {
       "name": "SapphireArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 103,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_armor_body_recipe"
@@ -683,7 +683,7 @@
     {
       "name": "SapphireArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 104,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_armor_leggings_recipe"
@@ -691,7 +691,7 @@
     {
       "name": "SapphireArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 105,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphire_armor_boots_recipe"
@@ -699,7 +699,7 @@
     {
       "name": "Rubyoretable",
       "type": "loottable",
-      "sortid": 106,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rubyoretable"
@@ -707,7 +707,7 @@
     {
       "name": "Sapphiretable",
       "type": "loottable",
-      "sortid": 107,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sapphiretable"
@@ -715,10 +715,26 @@
     {
       "name": "Peridottable",
       "type": "loottable",
-      "sortid": 107,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "registry_name": "peridottable"
+    },
+    {
+      "name": "Wip",
+      "type": "item",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wip"
+    },
+    {
+      "name": "Techodyssey",
+      "type": "tab",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "techodyssey"
     }
   ],
   "variable_elements": [],
@@ -731,6 +747,8 @@
       "item.tech_odyssey_beyond_the_limits.peridot_armor_helmet": "Peridot Helmet",
       "item.tech_odyssey_beyond_the_limits.sapphire_hoe": "Sapphire Hoe",
       "item.tech_odyssey_beyond_the_limits.ruby": "Ruby",
+      "itemGroup.tabtechodyssey": "Techodyssey",
+      "item.tech_odyssey_beyond_the_limits.wip": "Wip",
       "item.tech_odyssey_beyond_the_limits.titanium_armor_boots": "Titanium Boots",
       "item.tech_odyssey_beyond_the_limits.ruby_pickaxe": "Ruby Pickaxe",
       "item.tech_odyssey_beyond_the_limits.peridot_armor_boots": "Peridot Boots",

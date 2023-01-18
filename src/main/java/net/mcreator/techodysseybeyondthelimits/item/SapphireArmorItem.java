@@ -30,7 +30,7 @@ public class SapphireArmorItem extends TechOdysseyBeyondTheLimitsModElements.Mod
 	public static final Item boots = null;
 
 	public SapphireArmorItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 101);
+		super(instance, 36);
 	}
 
 	@Override

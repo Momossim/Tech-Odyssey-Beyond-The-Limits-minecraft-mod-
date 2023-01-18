@@ -18,7 +18,7 @@ public class RubyHoeItem extends TechOdysseyBeyondTheLimitsModElements.ModElemen
 	public static final Item block = null;
 
 	public RubyHoeItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 32);
+		super(instance, 20);
 	}
 
 	@Override

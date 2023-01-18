@@ -18,7 +18,7 @@ public class RubyAxeItem extends TechOdysseyBeyondTheLimitsModElements.ModElemen
 	public static final Item block = null;
 
 	public RubyAxeItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 29);
+		super(instance, 18);
 	}
 
 	@Override
@@ -33,7 +33,7 @@ public class RubyAxeItem extends TechOdysseyBeyondTheLimitsModElements.ModElemen
 			}
 
 			public float getAttackDamage() {
-				return 0f;
+				return 8f;
 			}
 
 			public int getHarvestLevel() {

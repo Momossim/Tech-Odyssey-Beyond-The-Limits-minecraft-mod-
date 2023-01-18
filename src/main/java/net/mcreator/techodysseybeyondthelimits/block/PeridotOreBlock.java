@@ -44,7 +44,7 @@ public class PeridotOreBlock extends TechOdysseyBeyondTheLimitsModElements.ModEl
 	public static final Block block = null;
 
 	public PeridotOreBlock(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 65);
+		super(instance, 9);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

@@ -30,7 +30,7 @@ public class PeridotArmorItem extends TechOdysseyBeyondTheLimitsModElements.ModE
 	public static final Item boots = null;
 
 	public PeridotArmorItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 80);
+		super(instance, 34);
 	}
 
 	@Override

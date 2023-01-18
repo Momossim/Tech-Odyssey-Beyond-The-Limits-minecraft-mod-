@@ -18,7 +18,7 @@ public class TitaniumHoeItem extends TechOdysseyBeyondTheLimitsModElements.ModEl
 	public static final Item block = null;
 
 	public TitaniumHoeItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 11);
+		super(instance, 16);
 	}
 
 	@Override

@@ -18,7 +18,7 @@ public class PeridotAxeItem extends TechOdysseyBeyondTheLimitsModElements.ModEle
 	public static final Item block = null;
 
 	public PeridotAxeItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 71);
+		super(instance, 22);
 	}
 
 	@Override
@@ -33,7 +33,7 @@ public class PeridotAxeItem extends TechOdysseyBeyondTheLimitsModElements.ModEle
 			}
 
 			public float getAttackDamage() {
-				return 0f;
+				return 8f;
 			}
 
 			public int getHarvestLevel() {

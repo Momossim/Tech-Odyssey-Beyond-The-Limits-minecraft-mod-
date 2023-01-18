@@ -30,7 +30,7 @@ public class RubyArmorItem extends TechOdysseyBeyondTheLimitsModElements.ModElem
 	public static final Item boots = null;
 
 	public RubyArmorItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 38);
+		super(instance, 32);
 	}
 
 	@Override

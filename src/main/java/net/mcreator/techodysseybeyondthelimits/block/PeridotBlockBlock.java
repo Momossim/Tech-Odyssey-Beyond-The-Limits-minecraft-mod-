@@ -27,7 +27,7 @@ public class PeridotBlockBlock extends TechOdysseyBeyondTheLimitsModElements.Mod
 	public static final Block block = null;
 
 	public PeridotBlockBlock(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 66);
+		super(instance, 10);
 	}
 
 	@Override

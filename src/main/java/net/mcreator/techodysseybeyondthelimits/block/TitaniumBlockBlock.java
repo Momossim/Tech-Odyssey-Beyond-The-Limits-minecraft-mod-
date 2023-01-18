@@ -27,7 +27,7 @@ public class TitaniumBlockBlock extends TechOdysseyBeyondTheLimitsModElements.Mo
 	public static final Block block = null;
 
 	public TitaniumBlockBlock(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 3);
+		super(instance, 6);
 	}
 
 	@Override
