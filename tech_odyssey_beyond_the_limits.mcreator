@@ -735,6 +735,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "techodyssey"
+    },
+    {
+      "name": "Ruin1",
+      "type": "structure",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruin_1"
     }
   ],
   "variable_elements": [],
