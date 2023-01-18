@@ -1,5 +1,6 @@
 {
   "item.tech_odyssey_beyond_the_limits.titanium_ingot": "Titanium",
+  "item.tech_odyssey_beyond_the_limits.titaniumplate": "Titanium plate",
   "block.tech_odyssey_beyond_the_limits.peridot_block": "Block of Peridot",
   "item.tech_odyssey_beyond_the_limits.ruby_armor_helmet": "Ruby Helmet",
   "item.tech_odyssey_beyond_the_limits.peridot_armor_helmet": "Peridot Helmet",
@@ -28,6 +29,7 @@
   "item.tech_odyssey_beyond_the_limits.ruby_shovel": "Ruby Shovel",
   "item.tech_odyssey_beyond_the_limits.sapphire_axe": "Sapphire Axe",
   "item.tech_odyssey_beyond_the_limits.titanium_armor_leggings": "Titanium Leggings",
+  "item.tech_odyssey_beyond_the_limits.hammer": "Hammer",
   "block.tech_odyssey_beyond_the_limits.ruby_ore": "Ruby Ore",
   "item.tech_odyssey_beyond_the_limits.peridot_pickaxe": "Peridot Pickaxe",
   "item.tech_odyssey_beyond_the_limits.titanium_sword": "Titanium Sword",
