@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tech_odyssey_beyond_the_limits:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "tech_odyssey_beyond_the_limits:sapphire",
+    "count": 9
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tech_odyssey_beyond_the_limits:ruby"
+    },
+    "1": {
+      "item": "tech_odyssey_beyond_the_limits:ruby"
+    },
+    "2": {
+      "item": "tech_odyssey_beyond_the_limits:ruby"
+    },
+    "3": {
+      "item": "tech_odyssey_beyond_the_limits:ruby"
+    },
+    "4": {
+      "item": "tech_odyssey_beyond_the_limits:ruby"
+    },
+    "5": {
+      "item": "tech_odyssey_beyond_the_limits:ruby"
+    },
+    "6": {
+      "item": "tech_odyssey_beyond_the_limits:ruby"
+    },
+    "7": {
+      "item": "tech_odyssey_beyond_the_limits:ruby"
+    },
+    "8": {
+      "item": "tech_odyssey_beyond_the_limits:ruby"
+    }
+  },
+  "result": {
+    "item": "tech_odyssey_beyond_the_limits:ruby_block",
+    "count": 1
+  }
+}

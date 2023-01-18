@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tech_odyssey_beyond_the_limits:items/ruby_head"
+  }
+}

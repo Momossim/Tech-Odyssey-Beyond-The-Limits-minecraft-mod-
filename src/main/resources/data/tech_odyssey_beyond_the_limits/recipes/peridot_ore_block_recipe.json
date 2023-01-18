@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tech_odyssey_beyond_the_limits:peridot"
+    },
+    "1": {
+      "item": "tech_odyssey_beyond_the_limits:peridot"
+    },
+    "2": {
+      "item": "tech_odyssey_beyond_the_limits:peridot"
+    },
+    "3": {
+      "item": "tech_odyssey_beyond_the_limits:peridot"
+    },
+    "4": {
+      "item": "tech_odyssey_beyond_the_limits:peridot"
+    },
+    "5": {
+      "item": "tech_odyssey_beyond_the_limits:peridot"
+    },
+    "6": {
+      "item": "tech_odyssey_beyond_the_limits:peridot"
+    },
+    "7": {
+      "item": "tech_odyssey_beyond_the_limits:peridot"
+    },
+    "8": {
+      "item": "tech_odyssey_beyond_the_limits:peridot"
+    }
+  },
+  "result": {
+    "item": "tech_odyssey_beyond_the_limits:peridot_block",
+    "count": 1
+  }
+}

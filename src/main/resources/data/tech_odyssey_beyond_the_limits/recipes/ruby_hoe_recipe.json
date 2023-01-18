@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "tech_odyssey_beyond_the_limits:ruby"
+    },
+    "1": {
+      "item": "tech_odyssey_beyond_the_limits:ruby"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "tech_odyssey_beyond_the_limits:ruby_hoe",
+    "count": 1
+  }
+}

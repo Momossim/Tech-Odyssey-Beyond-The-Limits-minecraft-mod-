@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "tech_odyssey_beyond_the_limits:sapphire"
+    },
+    "1": {
+      "item": "tech_odyssey_beyond_the_limits:sapphire"
+    },
+    "2": {
+      "item": "tech_odyssey_beyond_the_limits:sapphire"
+    },
+    "3": {
+      "item": "tech_odyssey_beyond_the_limits:sapphire"
+    },
+    "5": {
+      "item": "tech_odyssey_beyond_the_limits:sapphire"
+    }
+  },
+  "result": {
+    "item": "tech_odyssey_beyond_the_limits:sapphire_armor_helmet",
+    "count": 1
+  }
+}

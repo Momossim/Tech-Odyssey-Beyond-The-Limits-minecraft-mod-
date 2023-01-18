@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tech_odyssey_beyond_the_limits:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "tech_odyssey_beyond_the_limits:ruby",
+    "count": 9
+  }
+}

@@ -173,6 +173,552 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_armor_boots_recipe"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_block"
+    },
+    {
+      "name": "RubyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_ore_block_recipe"
+    },
+    {
+      "name": "RubyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_block_ore_recipe"
+    },
+    {
+      "name": "RubyOreSmelting",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_ore_smelting"
+    },
+    {
+      "name": "RubyPickaxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_pickaxe"
+    },
+    {
+      "name": "RubyAxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_axe"
+    },
+    {
+      "name": "RubySword",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_sword"
+    },
+    {
+      "name": "RubyShovel",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_shovel"
+    },
+    {
+      "name": "RubyHoe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_hoe"
+    },
+    {
+      "name": "RubyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_pickaxe_recipe"
+    },
+    {
+      "name": "RubyAxeRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_axe_recipe"
+    },
+    {
+      "name": "RubySwordRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_sword_recipe"
+    },
+    {
+      "name": "RubyShovelRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_shovel_recipe"
+    },
+    {
+      "name": "RubyHoeRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_hoe_recipe"
+    },
+    {
+      "name": "RubyArmor",
+      "type": "armor",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RubyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_armor_helmet_recipe"
+    },
+    {
+      "name": "RubyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_armor_body_recipe"
+    },
+    {
+      "name": "RubyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_armor_leggings_recipe"
+    },
+    {
+      "name": "RubyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_armor_boots_recipe"
+    },
+    {
+      "name": "Peridot",
+      "type": "item",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot"
+    },
+    {
+      "name": "PeridotOre",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_ore"
+    },
+    {
+      "name": "PeridotBlock",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_block"
+    },
+    {
+      "name": "PeridotOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_ore_block_recipe"
+    },
+    {
+      "name": "PeridotBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_block_ore_recipe"
+    },
+    {
+      "name": "PeridotOreSmelting",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_ore_smelting"
+    },
+    {
+      "name": "PeridotPickaxe",
+      "type": "tool",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_pickaxe"
+    },
+    {
+      "name": "PeridotAxe",
+      "type": "tool",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_axe"
+    },
+    {
+      "name": "PeridotSword",
+      "type": "tool",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_sword"
+    },
+    {
+      "name": "PeridotShovel",
+      "type": "tool",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_shovel"
+    },
+    {
+      "name": "PeridotHoe",
+      "type": "tool",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_hoe"
+    },
+    {
+      "name": "PeridotPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_pickaxe_recipe"
+    },
+    {
+      "name": "PeridotAxeRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_axe_recipe"
+    },
+    {
+      "name": "PeridotSwordRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_sword_recipe"
+    },
+    {
+      "name": "PeridotShovelRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_shovel_recipe"
+    },
+    {
+      "name": "PeridotHoeRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_hoe_recipe"
+    },
+    {
+      "name": "PeridotArmor",
+      "type": "armor",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PeridotArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_armor_helmet_recipe"
+    },
+    {
+      "name": "PeridotArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_armor_body_recipe"
+    },
+    {
+      "name": "PeridotArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_armor_leggings_recipe"
+    },
+    {
+      "name": "PeridotArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridot_armor_boots_recipe"
+    },
+    {
+      "name": "Sapphire",
+      "type": "item",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire"
+    },
+    {
+      "name": "SapphireOre",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_ore"
+    },
+    {
+      "name": "SapphireBlock",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_block"
+    },
+    {
+      "name": "SapphireOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_ore_block_recipe"
+    },
+    {
+      "name": "SapphireBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_block_ore_recipe"
+    },
+    {
+      "name": "SapphireOreSmelting",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_ore_smelting"
+    },
+    {
+      "name": "SapphirePickaxe",
+      "type": "tool",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_pickaxe"
+    },
+    {
+      "name": "SapphireAxe",
+      "type": "tool",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_axe"
+    },
+    {
+      "name": "SapphireSword",
+      "type": "tool",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_sword"
+    },
+    {
+      "name": "SapphireShovel",
+      "type": "tool",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_shovel"
+    },
+    {
+      "name": "SapphireHoe",
+      "type": "tool",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_hoe"
+    },
+    {
+      "name": "SapphirePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_pickaxe_recipe"
+    },
+    {
+      "name": "SapphireAxeRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_axe_recipe"
+    },
+    {
+      "name": "SapphireSwordRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_sword_recipe"
+    },
+    {
+      "name": "SapphireShovelRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_shovel_recipe"
+    },
+    {
+      "name": "SapphireHoeRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_hoe_recipe"
+    },
+    {
+      "name": "SapphireArmor",
+      "type": "armor",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "SapphireArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_armor_helmet_recipe"
+    },
+    {
+      "name": "SapphireArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_armor_body_recipe"
+    },
+    {
+      "name": "SapphireArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_armor_leggings_recipe"
+    },
+    {
+      "name": "SapphireArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_armor_boots_recipe"
+    },
+    {
+      "name": "Rubyoretable",
+      "type": "loottable",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubyoretable"
+    },
+    {
+      "name": "Sapphiretable",
+      "type": "loottable",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphiretable"
+    },
+    {
+      "name": "Peridottable",
+      "type": "loottable",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peridottable"
     }
   ],
   "variable_elements": [],
@@ -180,17 +726,53 @@
   "language_map": {
     "en_us": {
       "item.tech_odyssey_beyond_the_limits.titanium_ingot": "Titanium",
-      "item.tech_odyssey_beyond_the_limits.titanium_hoe": "Titanium Hoe",
-      "block.tech_odyssey_beyond_the_limits.titanium_ore": "Titanium Ore",
+      "block.tech_odyssey_beyond_the_limits.peridot_block": "Block of Peridot",
+      "item.tech_odyssey_beyond_the_limits.ruby_armor_helmet": "Ruby Helmet",
+      "item.tech_odyssey_beyond_the_limits.peridot_armor_helmet": "Peridot Helmet",
+      "item.tech_odyssey_beyond_the_limits.sapphire_hoe": "Sapphire Hoe",
+      "item.tech_odyssey_beyond_the_limits.ruby": "Ruby",
       "item.tech_odyssey_beyond_the_limits.titanium_armor_boots": "Titanium Boots",
-      "block.tech_odyssey_beyond_the_limits.titanium_block": "Block of Titanium",
-      "item.tech_odyssey_beyond_the_limits.titanium_pickaxe": "Titanium Pickaxe",
+      "item.tech_odyssey_beyond_the_limits.ruby_pickaxe": "Ruby Pickaxe",
+      "item.tech_odyssey_beyond_the_limits.peridot_armor_boots": "Peridot Boots",
+      "block.tech_odyssey_beyond_the_limits.sapphire_ore": "Sapphire Ore",
+      "item.tech_odyssey_beyond_the_limits.peridot_axe": "Peridot Axe",
+      "item.tech_odyssey_beyond_the_limits.sapphire_armor_boots": "Sapphire Boots",
+      "item.tech_odyssey_beyond_the_limits.ruby_armor_boots": "Ruby Boots",
       "item.tech_odyssey_beyond_the_limits.titanium_armor_chestplate": "Titanium Chestplate",
       "item.tech_odyssey_beyond_the_limits.titanium_armor_helmet": "Titanium Helmet",
-      "item.tech_odyssey_beyond_the_limits.titanium_armor_leggings": "Titanium Leggings",
       "item.tech_odyssey_beyond_the_limits.titanium_axe": "Titanium Axe",
+      "item.tech_odyssey_beyond_the_limits.peridot_shovel": "Peridot Shovel",
+      "item.tech_odyssey_beyond_the_limits.sapphire_sword": "Sapphire Sword",
+      "block.tech_odyssey_beyond_the_limits.ruby_block": "Block of Ruby",
+      "item.tech_odyssey_beyond_the_limits.ruby_hoe": "Ruby Hoe",
+      "block.tech_odyssey_beyond_the_limits.titanium_ore": "Titanium Ore",
+      "item.tech_odyssey_beyond_the_limits.ruby_sword": "Ruby Sword",
+      "item.tech_odyssey_beyond_the_limits.peridot_armor_leggings": "Peridot Leggings",
+      "item.tech_odyssey_beyond_the_limits.titanium_pickaxe": "Titanium Pickaxe",
+      "item.tech_odyssey_beyond_the_limits.ruby_shovel": "Ruby Shovel",
+      "item.tech_odyssey_beyond_the_limits.sapphire_axe": "Sapphire Axe",
+      "item.tech_odyssey_beyond_the_limits.titanium_armor_leggings": "Titanium Leggings",
+      "block.tech_odyssey_beyond_the_limits.ruby_ore": "Ruby Ore",
+      "item.tech_odyssey_beyond_the_limits.peridot_pickaxe": "Peridot Pickaxe",
       "item.tech_odyssey_beyond_the_limits.titanium_sword": "Titanium Sword",
-      "item.tech_odyssey_beyond_the_limits.titanium_shovel": "Titanium Shovel"
+      "item.tech_odyssey_beyond_the_limits.peridot_armor_chestplate": "Peridot Chestplate",
+      "item.tech_odyssey_beyond_the_limits.sapphire_armor_leggings": "Sapphire Leggings",
+      "item.tech_odyssey_beyond_the_limits.titanium_shovel": "Titanium Shovel",
+      "block.tech_odyssey_beyond_the_limits.sapphire_block": "Block of Sapphire",
+      "item.tech_odyssey_beyond_the_limits.titanium_hoe": "Titanium Hoe",
+      "item.tech_odyssey_beyond_the_limits.sapphire_pickaxe": "Sapphire Pickaxe",
+      "block.tech_odyssey_beyond_the_limits.titanium_block": "Block of Titanium",
+      "item.tech_odyssey_beyond_the_limits.sapphire_armor_helmet": "Sapphire Helmet",
+      "item.tech_odyssey_beyond_the_limits.ruby_armor_leggings": "Ruby Leggings",
+      "item.tech_odyssey_beyond_the_limits.sapphire": "Sapphire",
+      "item.tech_odyssey_beyond_the_limits.ruby_armor_chestplate": "Ruby Chestplate",
+      "item.tech_odyssey_beyond_the_limits.peridot": "Peridot",
+      "item.tech_odyssey_beyond_the_limits.peridot_sword": "Peridot Sword",
+      "item.tech_odyssey_beyond_the_limits.sapphire_shovel": "Sapphire Shovel",
+      "item.tech_odyssey_beyond_the_limits.ruby_axe": "Ruby Axe",
+      "item.tech_odyssey_beyond_the_limits.sapphire_armor_chestplate": "Sapphire Chestplate",
+      "block.tech_odyssey_beyond_the_limits.peridot_ore": "Peridot Ore",
+      "item.tech_odyssey_beyond_the_limits.peridot_hoe": "Peridot Hoe"
     }
   },
   "foldersRoot": {

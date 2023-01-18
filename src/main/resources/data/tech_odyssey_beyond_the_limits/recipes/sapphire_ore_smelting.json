@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.77,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "tech_odyssey_beyond_the_limits:sapphire_ore"
+  },
+  "result": {
+    "item": "tech_odyssey_beyond_the_limits:sapphire"
+  }
+}

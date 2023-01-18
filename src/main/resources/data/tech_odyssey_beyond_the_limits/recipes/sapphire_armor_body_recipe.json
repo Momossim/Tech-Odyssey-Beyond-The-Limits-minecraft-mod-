@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tech_odyssey_beyond_the_limits:sapphire"
+    },
+    "2": {
+      "item": "tech_odyssey_beyond_the_limits:sapphire"
+    },
+    "3": {
+      "item": "tech_odyssey_beyond_the_limits:sapphire"
+    },
+    "4": {
+      "item": "tech_odyssey_beyond_the_limits:sapphire"
+    },
+    "5": {
+      "item": "tech_odyssey_beyond_the_limits:sapphire"
+    },
+    "6": {
+      "item": "tech_odyssey_beyond_the_limits:sapphire"
+    },
+    "7": {
+      "item": "tech_odyssey_beyond_the_limits:sapphire"
+    },
+    "8": {
+      "item": "tech_odyssey_beyond_the_limits:sapphire"
+    }
+  },
+  "result": {
+    "item": "tech_odyssey_beyond_the_limits:sapphire_armor_chestplate",
+    "count": 1
+  }
+}

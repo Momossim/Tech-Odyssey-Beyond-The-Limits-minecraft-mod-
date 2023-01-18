@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tech_odyssey_beyond_the_limits:blocks/sapphire_ore",
+    "particle": "tech_odyssey_beyond_the_limits:blocks/sapphire_ore"
+  }
+}
