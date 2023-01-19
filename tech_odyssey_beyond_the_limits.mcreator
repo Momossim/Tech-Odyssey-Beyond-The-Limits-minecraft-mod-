@@ -775,6 +775,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "hammerrecipe"
+    },
+    {
+      "name": "Ironplate",
+      "type": "item",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironplate"
+    },
+    {
+      "name": "Ironplaterecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironplaterecipe"
     }
   ],
   "variable_elements": [],
@@ -813,6 +829,7 @@
       "item.tech_odyssey_beyond_the_limits.titanium_armor_leggings": "Titanium Leggings",
       "item.tech_odyssey_beyond_the_limits.hammer": "Hammer",
       "block.tech_odyssey_beyond_the_limits.ruby_ore": "Ruby Ore",
+      "item.tech_odyssey_beyond_the_limits.ironplate": "Iron plate (wip)",
       "item.tech_odyssey_beyond_the_limits.peridot_pickaxe": "Peridot Pickaxe",
       "item.tech_odyssey_beyond_the_limits.titanium_sword": "Titanium Sword",
       "item.tech_odyssey_beyond_the_limits.peridot_armor_chestplate": "Peridot Chestplate",

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tech_odyssey_beyond_the_limits:hammer"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "tech_odyssey_beyond_the_limits:ironplate",
+    "count": 2
+  }
+}
