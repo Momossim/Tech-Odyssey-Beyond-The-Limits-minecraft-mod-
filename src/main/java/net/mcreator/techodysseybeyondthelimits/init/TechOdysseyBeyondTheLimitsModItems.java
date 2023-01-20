@@ -113,6 +113,8 @@ public class TechOdysseyBeyondTheLimitsModItems {
 	public static final RegistryObject<Item> TITANIUMPLATE = REGISTRY.register("titaniumplate", () -> new TitaniumplateItem());
 	public static final RegistryObject<Item> IRONPLATE = REGISTRY.register("ironplate", () -> new IronplateItem());
 	public static final RegistryObject<Item> HAMMERH = REGISTRY.register("hammerh", () -> new HammerhItem());
+	public static final RegistryObject<Item> REALLYCOMPRESSEDCOBBLESTONE = block(TechOdysseyBeyondTheLimitsModBlocks.REALLYCOMPRESSEDCOBBLESTONE,
+			TechOdysseyBeyondTheLimitsModTabs.TAB_TECHODYSSEY);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));
