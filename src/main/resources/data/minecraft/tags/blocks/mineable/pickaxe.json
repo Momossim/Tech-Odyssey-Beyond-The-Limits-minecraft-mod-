@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "tech_odyssey_beyond_the_limits:titanium_ore",
+    "tech_odyssey_beyond_the_limits:titanium_block",
+    "tech_odyssey_beyond_the_limits:ruby_ore",
+    "tech_odyssey_beyond_the_limits:ruby_block",
+    "tech_odyssey_beyond_the_limits:peridot_ore",
+    "tech_odyssey_beyond_the_limits:peridot_block",
+    "tech_odyssey_beyond_the_limits:sapphire_ore",
+    "tech_odyssey_beyond_the_limits:sapphire_block"
+  ]
+}

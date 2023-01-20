@@ -5,7 +5,5 @@
   "ingredient": {
     "item": "tech_odyssey_beyond_the_limits:titanium_ore"
   },
-  "result": {
-    "item": "tech_odyssey_beyond_the_limits:titanium_ingot"
-  }
+  "result": "tech_odyssey_beyond_the_limits:titanium_ingot"
 }

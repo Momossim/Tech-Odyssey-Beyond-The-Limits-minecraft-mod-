@@ -1,53 +1,41 @@
 
 package net.mcreator.techodysseybeyondthelimits.item;
 
-import net.minecraftforge.registries.ObjectHolder;
+import net.minecraft.world.item.crafting.Ingredient;
+import net.minecraft.world.item.Tier;
+import net.minecraft.world.item.ShovelItem;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Item;
+import net.minecraft.world.item.CreativeModeTab;
 
-import net.minecraft.item.crafting.Ingredient;
-import net.minecraft.item.ShovelItem;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
-import net.minecraft.item.Item;
-import net.minecraft.item.IItemTier;
+import net.mcreator.techodysseybeyondthelimits.init.TechOdysseyBeyondTheLimitsModItems;
 
-import net.mcreator.techodysseybeyondthelimits.TechOdysseyBeyondTheLimitsModElements;
-
-@TechOdysseyBeyondTheLimitsModElements.ModElement.Tag
-public class TitaniumShovelItem extends TechOdysseyBeyondTheLimitsModElements.ModElement {
-	@ObjectHolder("tech_odyssey_beyond_the_limits:titanium_shovel")
-	public static final Item block = null;
-
-	public TitaniumShovelItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 15);
-	}
-
-	@Override
-	public void initElements() {
-		elements.items.add(() -> new ShovelItem(new IItemTier() {
-			public int getMaxUses() {
+public class TitaniumShovelItem extends ShovelItem {
+	public TitaniumShovelItem() {
+		super(new Tier() {
+			public int getUses() {
 				return 361;
 			}
 
-			public float getEfficiency() {
+			public float getSpeed() {
 				return 7f;
 			}
 
-			public float getAttackDamage() {
+			public float getAttackDamageBonus() {
 				return 1f;
 			}
 
-			public int getHarvestLevel() {
+			public int getLevel() {
 				return 3;
 			}
 
-			public int getEnchantability() {
+			public int getEnchantmentValue() {
 				return 18;
 			}
 
-			public Ingredient getRepairMaterial() {
-				return Ingredient.fromStacks(new ItemStack(TitaniumIngotItem.block));
+			public Ingredient getRepairIngredient() {
+				return Ingredient.of(new ItemStack(TechOdysseyBeyondTheLimitsModItems.TITANIUM_INGOT.get()));
 			}
-		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
-		}.setRegistryName("titanium_shovel"));
+		}, 1, -3f, new Item.Properties().tab(CreativeModeTab.TAB_TOOLS));
 	}
 }

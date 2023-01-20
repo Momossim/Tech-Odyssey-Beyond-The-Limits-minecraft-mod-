@@ -1,53 +1,41 @@
 
 package net.mcreator.techodysseybeyondthelimits.item;
 
-import net.minecraftforge.registries.ObjectHolder;
+import net.minecraft.world.item.crafting.Ingredient;
+import net.minecraft.world.item.Tier;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Item;
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.AxeItem;
 
-import net.minecraft.item.crafting.Ingredient;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
-import net.minecraft.item.Item;
-import net.minecraft.item.IItemTier;
-import net.minecraft.item.AxeItem;
+import net.mcreator.techodysseybeyondthelimits.init.TechOdysseyBeyondTheLimitsModItems;
 
-import net.mcreator.techodysseybeyondthelimits.TechOdysseyBeyondTheLimitsModElements;
-
-@TechOdysseyBeyondTheLimitsModElements.ModElement.Tag
-public class RubyAxeItem extends TechOdysseyBeyondTheLimitsModElements.ModElement {
-	@ObjectHolder("tech_odyssey_beyond_the_limits:ruby_axe")
-	public static final Item block = null;
-
-	public RubyAxeItem(TechOdysseyBeyondTheLimitsModElements instance) {
-		super(instance, 18);
-	}
-
-	@Override
-	public void initElements() {
-		elements.items.add(() -> new AxeItem(new IItemTier() {
-			public int getMaxUses() {
+public class RubyAxeItem extends AxeItem {
+	public RubyAxeItem() {
+		super(new Tier() {
+			public int getUses() {
 				return 286;
 			}
 
-			public float getEfficiency() {
+			public float getSpeed() {
 				return 6f;
 			}
 
-			public float getAttackDamage() {
+			public float getAttackDamageBonus() {
 				return 8f;
 			}
 
-			public int getHarvestLevel() {
+			public int getLevel() {
 				return 2;
 			}
 
-			public int getEnchantability() {
+			public int getEnchantmentValue() {
 				return 15;
 			}
 
-			public Ingredient getRepairMaterial() {
-				return Ingredient.fromStacks(new ItemStack(RubyItem.block));
+			public Ingredient getRepairIngredient() {
+				return Ingredient.of(new ItemStack(TechOdysseyBeyondTheLimitsModItems.RUBY.get()));
 			}
-		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
-		}.setRegistryName("ruby_axe"));
+		}, 1, -3f, new Item.Properties().tab(CreativeModeTab.TAB_TOOLS));
 	}
 }

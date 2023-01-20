@@ -3,5 +3,6 @@
   "textures": {
     "all": "tech_odyssey_beyond_the_limits:blocks/titanium_ore",
     "particle": "tech_odyssey_beyond_the_limits:blocks/titanium_ore"
-  }
+  },
+  "render_type": "solid"
 }
