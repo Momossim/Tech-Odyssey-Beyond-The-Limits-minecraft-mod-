@@ -44,7 +44,7 @@ import net.mcreator.techodysseybeyondthelimits.item.PeridotHoeItem;
 import net.mcreator.techodysseybeyondthelimits.item.PeridotAxeItem;
 import net.mcreator.techodysseybeyondthelimits.item.PeridotArmorItem;
 import net.mcreator.techodysseybeyondthelimits.item.IronplateItem;
-import net.mcreator.techodysseybeyondthelimits.item.HammerItem;
+import net.mcreator.techodysseybeyondthelimits.item.HammerhItem;
 import net.mcreator.techodysseybeyondthelimits.TechOdysseyBeyondTheLimitsMod;
 
 public class TechOdysseyBeyondTheLimitsModItems {
@@ -110,9 +110,9 @@ public class TechOdysseyBeyondTheLimitsModItems {
 			() -> new SapphireArmorItem.Leggings());
 	public static final RegistryObject<Item> SAPPHIRE_ARMOR_BOOTS = REGISTRY.register("sapphire_armor_boots", () -> new SapphireArmorItem.Boots());
 	public static final RegistryObject<Item> WIP = REGISTRY.register("wip", () -> new WipItem());
-	public static final RegistryObject<Item> HAMMER = REGISTRY.register("hammer", () -> new HammerItem());
 	public static final RegistryObject<Item> TITANIUMPLATE = REGISTRY.register("titaniumplate", () -> new TitaniumplateItem());
 	public static final RegistryObject<Item> IRONPLATE = REGISTRY.register("ironplate", () -> new IronplateItem());
+	public static final RegistryObject<Item> HAMMERH = REGISTRY.register("hammerh", () -> new HammerhItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

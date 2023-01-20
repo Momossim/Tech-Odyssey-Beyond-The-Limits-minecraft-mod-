@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "tech_odyssey_beyond_the_limits:hammer"
+      "item": "tech_odyssey_beyond_the_limits:hammerh"
     },
     {
       "item": "minecraft:iron_ingot"

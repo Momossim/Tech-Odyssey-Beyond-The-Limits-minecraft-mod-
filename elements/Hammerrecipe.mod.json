@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Hammer"
+      "value": "CUSTOM:Hammerh"
     },
     "name": "hammerrecipe",
     "namespace": "mod"

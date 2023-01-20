@@ -1,5 +1,5 @@
 {
-  "parent": "item/generated",
+  "parent": "item/handheld",
   "textures": {
     "layer0": "tech_odyssey_beyond_the_limits:items/hammer_texture_wip"
   }
