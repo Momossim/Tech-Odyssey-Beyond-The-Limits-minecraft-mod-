@@ -791,6 +791,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "ironplaterecipe"
+    },
+    {
+      "name": "Reallycompressedcobblestone",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reallycompressedcobblestone"
     }
   ],
   "variable_elements": [],
@@ -834,6 +842,7 @@
       "item.tech_odyssey_beyond_the_limits.titanium_sword": "Titanium Sword",
       "item.tech_odyssey_beyond_the_limits.peridot_armor_chestplate": "Peridot Chestplate",
       "item.tech_odyssey_beyond_the_limits.sapphire_armor_leggings": "Sapphire Leggings",
+      "block.tech_odyssey_beyond_the_limits.reallycompressedcobblestone": "Reallycompressedcobblestone",
       "item.tech_odyssey_beyond_the_limits.titanium_shovel": "Titanium Shovel",
       "block.tech_odyssey_beyond_the_limits.sapphire_block": "Block of Sapphire",
       "item.tech_odyssey_beyond_the_limits.titanium_hoe": "Titanium Hoe",

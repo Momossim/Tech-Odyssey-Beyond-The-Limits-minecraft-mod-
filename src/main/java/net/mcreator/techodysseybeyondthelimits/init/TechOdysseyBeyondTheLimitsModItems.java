@@ -43,6 +43,7 @@ import net.mcreator.techodysseybeyondthelimits.item.PeridotItem;
 import net.mcreator.techodysseybeyondthelimits.item.PeridotHoeItem;
 import net.mcreator.techodysseybeyondthelimits.item.PeridotAxeItem;
 import net.mcreator.techodysseybeyondthelimits.item.PeridotArmorItem;
+import net.mcreator.techodysseybeyondthelimits.item.IronplateItem;
 import net.mcreator.techodysseybeyondthelimits.item.HammerItem;
 import net.mcreator.techodysseybeyondthelimits.TechOdysseyBeyondTheLimitsMod;
 
@@ -111,6 +112,9 @@ public class TechOdysseyBeyondTheLimitsModItems {
 	public static final RegistryObject<Item> WIP = REGISTRY.register("wip", () -> new WipItem());
 	public static final RegistryObject<Item> HAMMER = REGISTRY.register("hammer", () -> new HammerItem());
 	public static final RegistryObject<Item> TITANIUMPLATE = REGISTRY.register("titaniumplate", () -> new TitaniumplateItem());
+	public static final RegistryObject<Item> IRONPLATE = REGISTRY.register("ironplate", () -> new IronplateItem());
+	public static final RegistryObject<Item> REALLYCOMPRESSEDCOBBLESTONE = block(TechOdysseyBeyondTheLimitsModBlocks.REALLYCOMPRESSEDCOBBLESTONE,
+			TechOdysseyBeyondTheLimitsModTabs.TAB_TECHODYSSEY);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));
