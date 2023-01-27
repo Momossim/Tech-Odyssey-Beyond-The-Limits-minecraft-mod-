@@ -18,7 +18,7 @@ public class PeridotHoeItem extends HoeItem {
 			}
 
 			public float getSpeed() {
-				return 6f;
+				return 10f;
 			}
 
 			public float getAttackDamageBonus() {
@@ -26,7 +26,7 @@ public class PeridotHoeItem extends HoeItem {
 			}
 
 			public int getLevel() {
-				return 2;
+				return 9;
 			}
 
 			public int getEnchantmentValue() {
