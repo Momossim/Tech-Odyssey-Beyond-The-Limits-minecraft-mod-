@@ -1,0 +1,27 @@
+{
+  "_fv": 34,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "The decompressor",
+    "achievementDescription": "Nigga",
+    "achievementIcon": {
+      "value": "CUSTOM:Reallycompressedcobblestone"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": true,
+    "rewardLoot": [
+      "Peridottable"
+    ],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 1,
+    "achievementType": "challenge",
+    "parent": {
+      "value": "CUSTOM:Thecommpressator"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"item_consumed\" x=\"117\" y=\"30\"><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">CUSTOM:Reallycompressedcobblestone</field></block></value><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}

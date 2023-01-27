@@ -5,7 +5,7 @@
     "up": "tech_odyssey_beyond_the_limits:blocks/cobblestone",
     "north": "tech_odyssey_beyond_the_limits:blocks/cobblestone",
     "east": "tech_odyssey_beyond_the_limits:blocks/cobblestone",
-    "south": "tech_odyssey_beyond_the_limits:blocks/cobblestone",
+    "south": "tech_odyssey_beyond_the_limits:blocks/win_20230124_14_50_38_pro",
     "west": "tech_odyssey_beyond_the_limits:blocks/cobblestone",
     "particle": "tech_odyssey_beyond_the_limits:blocks/cobblestone"
   },

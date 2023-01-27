@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "tech_odyssey_beyond_the_limits:reallycompressedcobblestone"
+    },
+    "title": {
+      "translate": "advancements.thedecompressor.title"
+    },
+    "description": {
+      "translate": "advancements.thedecompressor.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "thedecompressor": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "tech_odyssey_beyond_the_limits:reallycompressedcobblestone"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "loot": [
+      "tech_odyssey_beyond_the_limits:blocks/peridot_ore"
+    ]
+  },
+  "parent": "tech_odyssey_beyond_the_limits:thecommpressator"
+}

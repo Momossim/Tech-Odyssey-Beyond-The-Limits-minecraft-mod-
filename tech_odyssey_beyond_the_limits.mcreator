@@ -799,6 +799,74 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "reallycompressedcobblestone"
+    },
+    {
+      "name": "Thecommpressator",
+      "type": "achievement",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thecommpressator"
+    },
+    {
+      "name": "Thedecompressor",
+      "type": "achievement",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thedecompressor"
+    },
+    {
+      "name": "Compressedshit",
+      "type": "itemextension",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressedshit"
+    },
+    {
+      "name": "Hello",
+      "type": "command",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hello"
+    },
+    {
+      "name": "Helloblock",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "helloblock"
+    },
+    {
+      "name": "Helloprocedure",
+      "type": "procedure",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "helloprocedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -808,6 +876,7 @@
       "item.tech_odyssey_beyond_the_limits.titanium_ingot": "Titanium",
       "item.tech_odyssey_beyond_the_limits.titaniumplate": "Titanium plate",
       "block.tech_odyssey_beyond_the_limits.peridot_block": "Block of Peridot",
+      "block.tech_odyssey_beyond_the_limits.helloblock": "Helloblock",
       "item.tech_odyssey_beyond_the_limits.ruby_armor_helmet": "Ruby Helmet",
       "item.tech_odyssey_beyond_the_limits.peridot_armor_helmet": "Peridot Helmet",
       "item.tech_odyssey_beyond_the_limits.sapphire_hoe": "Sapphire Hoe",
@@ -829,11 +898,14 @@
       "item.tech_odyssey_beyond_the_limits.sapphire_sword": "Sapphire Sword",
       "block.tech_odyssey_beyond_the_limits.ruby_block": "Block of Ruby",
       "item.tech_odyssey_beyond_the_limits.ruby_hoe": "Ruby Hoe",
+      "advancements.thedecompressor.title": "The decompressor",
       "block.tech_odyssey_beyond_the_limits.titanium_ore": "Titanium Ore",
       "item.tech_odyssey_beyond_the_limits.ruby_sword": "Ruby Sword",
       "item.tech_odyssey_beyond_the_limits.peridot_armor_leggings": "Peridot Leggings",
+      "advancements.thecommpressator.title": "The compressor",
       "item.tech_odyssey_beyond_the_limits.titanium_pickaxe": "Titanium Pickaxe",
       "item.tech_odyssey_beyond_the_limits.ruby_shovel": "Ruby Shovel",
+      "advancements.thecommpressator.descr": "look at the back ...",
       "item.tech_odyssey_beyond_the_limits.sapphire_axe": "Sapphire Axe",
       "item.tech_odyssey_beyond_the_limits.titanium_armor_leggings": "Titanium Leggings",
       "item.tech_odyssey_beyond_the_limits.hammer": "Hammer",
@@ -843,7 +915,7 @@
       "item.tech_odyssey_beyond_the_limits.titanium_sword": "Titanium Sword",
       "item.tech_odyssey_beyond_the_limits.peridot_armor_chestplate": "Peridot Chestplate",
       "item.tech_odyssey_beyond_the_limits.sapphire_armor_leggings": "Sapphire Leggings",
-      "block.tech_odyssey_beyond_the_limits.reallycompressedcobblestone": "Reallycompressedcobblestone",
+      "block.tech_odyssey_beyond_the_limits.reallycompressedcobblestone": "Really compressed cobblestone",
       "item.tech_odyssey_beyond_the_limits.titanium_shovel": "Titanium Shovel",
       "block.tech_odyssey_beyond_the_limits.sapphire_block": "Block of Sapphire",
       "item.tech_odyssey_beyond_the_limits.titanium_hoe": "Titanium Hoe",
@@ -858,6 +930,7 @@
       "item.tech_odyssey_beyond_the_limits.sapphire_shovel": "Sapphire Shovel",
       "item.tech_odyssey_beyond_the_limits.ruby_axe": "Ruby Axe",
       "item.tech_odyssey_beyond_the_limits.sapphire_armor_chestplate": "Sapphire Chestplate",
+      "advancements.thedecompressor.descr": "Nigga",
       "block.tech_odyssey_beyond_the_limits.peridot_ore": "Peridot Ore",
       "item.tech_odyssey_beyond_the_limits.peridot_hoe": "Peridot Hoe"
     }
