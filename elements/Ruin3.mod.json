@@ -4,8 +4,8 @@
   "definition": {
     "structure": "ruin3",
     "randomlyRotateStructure": true,
-    "surfaceDetectionType": "First motion blocking block",
-    "spawnProbability": 1000,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 1500,
     "minCountPerChunk": 1,
     "maxCountPerChunk": 1,
     "spawnLocation": "Ground",
