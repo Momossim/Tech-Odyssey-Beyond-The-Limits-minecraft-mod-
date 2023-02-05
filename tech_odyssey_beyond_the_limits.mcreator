@@ -883,6 +883,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruin_2"
+    },
+    {
+      "name": "Ruin3",
+      "type": "structure",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruin_3"
     }
   ],
   "variable_elements": [],
@@ -894,9 +902,9 @@
       "block.tech_odyssey_beyond_the_limits.peridot_block": "Block of Peridot",
       "item.minecraft.lingering_potion.effect.oflevitation": "Lingering Potion of levitation",
       "block.tech_odyssey_beyond_the_limits.helloblock": "Helloblock",
-      "item.tech_odyssey_beyond_the_limits.sapphire_hoe": "Sapphire Hoe",
-      "item.tech_odyssey_beyond_the_limits.peridot_armor_helmet": "Peridot Helmet",
       "item.tech_odyssey_beyond_the_limits.ruby_armor_helmet": "Ruby Helmet",
+      "item.tech_odyssey_beyond_the_limits.peridot_armor_helmet": "Peridot Helmet",
+      "item.tech_odyssey_beyond_the_limits.sapphire_hoe": "Sapphire Hoe",
       "item.tech_odyssey_beyond_the_limits.ruby": "Ruby",
       "itemGroup.tabtechodyssey": "Techodyssey",
       "item.tech_odyssey_beyond_the_limits.wip": "Wip",
@@ -960,9 +968,9 @@
       "block.tech_odyssey_beyond_the_limits.peridot_block": "Block of Peridot",
       "item.minecraft.lingering_potion.effect.oflevitation": "Lingering Potion of levitation",
       "block.tech_odyssey_beyond_the_limits.helloblock": "Helloblock",
-      "item.tech_odyssey_beyond_the_limits.ruby_armor_helmet": "Ruby Helmet",
-      "item.tech_odyssey_beyond_the_limits.peridot_armor_helmet": "Peridot Helmet",
       "item.tech_odyssey_beyond_the_limits.sapphire_hoe": "Sapphire Hoe",
+      "item.tech_odyssey_beyond_the_limits.peridot_armor_helmet": "Peridot Helmet",
+      "item.tech_odyssey_beyond_the_limits.ruby_armor_helmet": "Ruby Helmet",
       "item.tech_odyssey_beyond_the_limits.ruby": "Ruby",
       "itemGroup.tabtechodyssey": "Techodyssey",
       "item.tech_odyssey_beyond_the_limits.wip": "Wip",

@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "tech_odyssey_beyond_the_limits:ruin_3",
+  "step": "surface_structures"
+}

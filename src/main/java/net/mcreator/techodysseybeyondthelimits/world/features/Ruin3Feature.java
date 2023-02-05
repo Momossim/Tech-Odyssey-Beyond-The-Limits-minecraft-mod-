@@ -24,22 +24,22 @@ import net.minecraft.core.BlockPos;
 import java.util.Set;
 import java.util.List;
 
-public class Ruin2Feature extends Feature<NoneFeatureConfiguration> {
-	public static Ruin2Feature FEATURE = null;
+public class Ruin3Feature extends Feature<NoneFeatureConfiguration> {
+	public static Ruin3Feature FEATURE = null;
 	public static Holder<ConfiguredFeature<NoneFeatureConfiguration, ?>> CONFIGURED_FEATURE = null;
 	public static Holder<PlacedFeature> PLACED_FEATURE = null;
 
 	public static Feature<?> feature() {
-		FEATURE = new Ruin2Feature();
-		CONFIGURED_FEATURE = FeatureUtils.register("tech_odyssey_beyond_the_limits:ruin_2", FEATURE, FeatureConfiguration.NONE);
-		PLACED_FEATURE = PlacementUtils.register("tech_odyssey_beyond_the_limits:ruin_2", CONFIGURED_FEATURE, List.of());
+		FEATURE = new Ruin3Feature();
+		CONFIGURED_FEATURE = FeatureUtils.register("tech_odyssey_beyond_the_limits:ruin_3", FEATURE, FeatureConfiguration.NONE);
+		PLACED_FEATURE = PlacementUtils.register("tech_odyssey_beyond_the_limits:ruin_3", CONFIGURED_FEATURE, List.of());
 		return FEATURE;
 	}
 
 	private final Set<ResourceKey<Level>> generate_dimensions = Set.of(Level.OVERWORLD);
 	private StructureTemplate template = null;
 
-	public Ruin2Feature() {
+	public Ruin3Feature() {
 		super(NoneFeatureConfiguration.CODEC);
 	}
 
@@ -48,12 +48,11 @@ public class Ruin2Feature extends Feature<NoneFeatureConfiguration> {
 		if (!generate_dimensions.contains(context.level().getLevel().dimension()))
 			return false;
 		if (template == null)
-			template = context.level().getLevel().getStructureManager()
-					.getOrCreate(new ResourceLocation("tech_odyssey_beyond_the_limits", "structure2"));
+			template = context.level().getLevel().getStructureManager().getOrCreate(new ResourceLocation("tech_odyssey_beyond_the_limits", "ruin3"));
 		if (template == null)
 			return false;
 		boolean anyPlaced = false;
-		if ((context.random().nextInt(1000000) + 1) <= 5000) {
+		if ((context.random().nextInt(1000000) + 1) <= 1000) {
 			int count = context.random().nextInt(1) + 1;
 			for (int a = 0; a < count; a++) {
 				int i = context.origin().getX() + context.random().nextInt(16);

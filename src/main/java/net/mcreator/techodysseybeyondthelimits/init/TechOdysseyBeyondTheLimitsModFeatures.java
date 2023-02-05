@@ -15,6 +15,7 @@ import net.mcreator.techodysseybeyondthelimits.world.features.ores.TitaniumOreFe
 import net.mcreator.techodysseybeyondthelimits.world.features.ores.SapphireOreFeature;
 import net.mcreator.techodysseybeyondthelimits.world.features.ores.RubyOreFeature;
 import net.mcreator.techodysseybeyondthelimits.world.features.ores.PeridotOreFeature;
+import net.mcreator.techodysseybeyondthelimits.world.features.Ruin3Feature;
 import net.mcreator.techodysseybeyondthelimits.world.features.Ruin2Feature;
 import net.mcreator.techodysseybeyondthelimits.world.features.Ruin1Feature;
 import net.mcreator.techodysseybeyondthelimits.TechOdysseyBeyondTheLimitsMod;
@@ -29,4 +30,5 @@ public class TechOdysseyBeyondTheLimitsModFeatures {
 	public static final RegistryObject<Feature<?>> SAPPHIRE_ORE = REGISTRY.register("sapphire_ore", SapphireOreFeature::feature);
 	public static final RegistryObject<Feature<?>> RUIN_1 = REGISTRY.register("ruin_1", Ruin1Feature::feature);
 	public static final RegistryObject<Feature<?>> RUIN_2 = REGISTRY.register("ruin_2", Ruin2Feature::feature);
+	public static final RegistryObject<Feature<?>> RUIN_3 = REGISTRY.register("ruin_3", Ruin3Feature::feature);
 }
