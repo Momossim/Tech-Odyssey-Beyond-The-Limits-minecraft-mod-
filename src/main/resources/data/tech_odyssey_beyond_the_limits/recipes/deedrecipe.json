@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:ink_sac"
+    },
+    "3": {
+      "item": "minecraft:magenta_glazed_terracotta"
+    },
+    "4": {
+      "item": "tech_odyssey_beyond_the_limits:titanium_block"
+    },
+    "5": {
+      "item": "minecraft:white_stained_glass"
+    },
+    "7": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "tech_odyssey_beyond_the_limits:deed",
+    "count": 1
+  }
+}

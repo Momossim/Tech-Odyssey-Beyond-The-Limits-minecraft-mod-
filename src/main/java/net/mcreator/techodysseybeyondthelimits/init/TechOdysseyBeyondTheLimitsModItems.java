@@ -45,6 +45,7 @@ import net.mcreator.techodysseybeyondthelimits.item.PeridotAxeItem;
 import net.mcreator.techodysseybeyondthelimits.item.PeridotArmorItem;
 import net.mcreator.techodysseybeyondthelimits.item.IronplateItem;
 import net.mcreator.techodysseybeyondthelimits.item.HammerhItem;
+import net.mcreator.techodysseybeyondthelimits.item.DeedItem;
 import net.mcreator.techodysseybeyondthelimits.TechOdysseyBeyondTheLimitsMod;
 
 public class TechOdysseyBeyondTheLimitsModItems {
@@ -117,6 +118,7 @@ public class TechOdysseyBeyondTheLimitsModItems {
 			TechOdysseyBeyondTheLimitsModTabs.TAB_TECHODYSSEY);
 	public static final RegistryObject<Item> HELLOBLOCK = block(TechOdysseyBeyondTheLimitsModBlocks.HELLOBLOCK,
 			TechOdysseyBeyondTheLimitsModTabs.TAB_TECHODYSSEY);
+	public static final RegistryObject<Item> DEED = REGISTRY.register("deed", () -> new DeedItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

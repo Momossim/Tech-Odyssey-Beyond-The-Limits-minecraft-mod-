@@ -31,6 +31,7 @@ import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.techodysseybeyondthelimits.init.TechOdysseyBeyondTheLimitsModTabs;
 import net.mcreator.techodysseybeyondthelimits.init.TechOdysseyBeyondTheLimitsModPotions;
+import net.mcreator.techodysseybeyondthelimits.init.TechOdysseyBeyondTheLimitsModPaintings;
 import net.mcreator.techodysseybeyondthelimits.init.TechOdysseyBeyondTheLimitsModItems;
 import net.mcreator.techodysseybeyondthelimits.init.TechOdysseyBeyondTheLimitsModFeatures;
 import net.mcreator.techodysseybeyondthelimits.init.TechOdysseyBeyondTheLimitsModBlocks;
@@ -56,6 +57,8 @@ public class TechOdysseyBeyondTheLimitsMod {
 		TechOdysseyBeyondTheLimitsModItems.REGISTRY.register(bus);
 
 		TechOdysseyBeyondTheLimitsModFeatures.REGISTRY.register(bus);
+
+		TechOdysseyBeyondTheLimitsModPaintings.REGISTRY.register(bus);
 
 		TechOdysseyBeyondTheLimitsModPotions.REGISTRY.register(bus);
 

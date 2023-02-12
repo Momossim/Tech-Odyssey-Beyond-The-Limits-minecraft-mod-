@@ -891,6 +891,78 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruin_3"
+    },
+    {
+      "name": "Rodrifuk",
+      "type": "painting",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rodrifuk"
+    },
+    {
+      "name": "Screen",
+      "type": "painting",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "screen"
+    },
+    {
+      "name": "DeedRightclickedOnBlock",
+      "type": "procedure",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deed_rightclicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Deed",
+      "type": "item",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deed"
+    },
+    {
+      "name": "Deedrecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deedrecipe"
+    },
+    {
+      "name": "Cake",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cake"
     }
   ],
   "variable_elements": [],
@@ -902,9 +974,9 @@
       "block.tech_odyssey_beyond_the_limits.peridot_block": "Block of Peridot",
       "item.minecraft.lingering_potion.effect.oflevitation": "Lingering Potion of levitation",
       "block.tech_odyssey_beyond_the_limits.helloblock": "Helloblock",
-      "item.tech_odyssey_beyond_the_limits.sapphire_hoe": "Sapphire Hoe",
-      "item.tech_odyssey_beyond_the_limits.peridot_armor_helmet": "Peridot Helmet",
       "item.tech_odyssey_beyond_the_limits.ruby_armor_helmet": "Ruby Helmet",
+      "item.tech_odyssey_beyond_the_limits.peridot_armor_helmet": "Peridot Helmet",
+      "item.tech_odyssey_beyond_the_limits.sapphire_hoe": "Sapphire Hoe",
       "item.tech_odyssey_beyond_the_limits.ruby": "Ruby",
       "itemGroup.tabtechodyssey": "Techodyssey",
       "item.tech_odyssey_beyond_the_limits.wip": "Wip",
@@ -915,6 +987,7 @@
       "item.tech_odyssey_beyond_the_limits.hammerh": "Hammer",
       "item.tech_odyssey_beyond_the_limits.peridot_axe": "Peridot Axe",
       "item.tech_odyssey_beyond_the_limits.sapphire_armor_boots": "Sapphire Boots",
+      "item.tech_odyssey_beyond_the_limits.deed": "Deed",
       "item.tech_odyssey_beyond_the_limits.ruby_armor_boots": "Ruby Boots",
       "item.tech_odyssey_beyond_the_limits.titanium_armor_chestplate": "Titanium Chestplate",
       "item.minecraft.tipped_arrow.effect.oflevitation": "Arrow of levitation",
@@ -968,9 +1041,9 @@
       "block.tech_odyssey_beyond_the_limits.peridot_block": "Block of Peridot",
       "item.minecraft.lingering_potion.effect.oflevitation": "Lingering Potion of levitation",
       "block.tech_odyssey_beyond_the_limits.helloblock": "Helloblock",
-      "item.tech_odyssey_beyond_the_limits.ruby_armor_helmet": "Ruby Helmet",
-      "item.tech_odyssey_beyond_the_limits.peridot_armor_helmet": "Peridot Helmet",
       "item.tech_odyssey_beyond_the_limits.sapphire_hoe": "Sapphire Hoe",
+      "item.tech_odyssey_beyond_the_limits.peridot_armor_helmet": "Peridot Helmet",
+      "item.tech_odyssey_beyond_the_limits.ruby_armor_helmet": "Ruby Helmet",
       "item.tech_odyssey_beyond_the_limits.ruby": "Ruby",
       "itemGroup.tabtechodyssey": "Techodyssey",
       "item.tech_odyssey_beyond_the_limits.wip": "Wip",
@@ -981,6 +1054,7 @@
       "item.tech_odyssey_beyond_the_limits.hammerh": "Hammer",
       "item.tech_odyssey_beyond_the_limits.peridot_axe": "Peridot Axe",
       "item.tech_odyssey_beyond_the_limits.sapphire_armor_boots": "Sapphire Boots",
+      "item.tech_odyssey_beyond_the_limits.deed": "Deed",
       "item.tech_odyssey_beyond_the_limits.ruby_armor_boots": "Ruby Boots",
       "item.tech_odyssey_beyond_the_limits.titanium_armor_chestplate": "Titanium Chestplate",
       "item.minecraft.tipped_arrow.effect.oflevitation": "Arrow of levitation",
