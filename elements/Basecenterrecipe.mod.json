@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Titaniumrod"
+      },
+      {
+        "value": "CUSTOM:TitaniumIngot"
+      },
+      {
+        "value": "CUSTOM:Titaniumrod"
+      },
+      {
+        "value": "CUSTOM:Titaniumplate"
+      },
+      {
+        "value": "CUSTOM:TitaniumBlock"
+      },
+      {
+        "value": "CUSTOM:Titaniumplate"
+      },
+      {
+        "value": "CUSTOM:Titaniumrod"
+      },
+      {
+        "value": "CUSTOM:Titaniumplate"
+      },
+      {
+        "value": "CUSTOM:Titaniumrod"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BaseCenter"
+    },
+    "name": "basecenterrecipe",
+    "namespace": "mod"
+  }
+}

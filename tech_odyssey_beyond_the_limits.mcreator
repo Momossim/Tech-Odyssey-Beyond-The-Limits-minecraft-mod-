@@ -979,6 +979,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "base_center"
+    },
+    {
+      "name": "Titaniumrodrecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titaniumrodrecipe"
+    },
+    {
+      "name": "Basecenterrecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basecenterrecipe"
     }
   ],
   "variable_elements": [],

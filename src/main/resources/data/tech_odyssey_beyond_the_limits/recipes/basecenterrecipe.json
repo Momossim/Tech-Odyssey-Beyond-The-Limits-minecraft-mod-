@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tech_odyssey_beyond_the_limits:titaniumrod"
+    },
+    "1": {
+      "item": "tech_odyssey_beyond_the_limits:titanium_ingot"
+    },
+    "2": {
+      "item": "tech_odyssey_beyond_the_limits:titaniumrod"
+    },
+    "3": {
+      "item": "tech_odyssey_beyond_the_limits:titaniumplate"
+    },
+    "4": {
+      "item": "tech_odyssey_beyond_the_limits:titanium_block"
+    },
+    "5": {
+      "item": "tech_odyssey_beyond_the_limits:titaniumplate"
+    },
+    "6": {
+      "item": "tech_odyssey_beyond_the_limits:titaniumrod"
+    },
+    "7": {
+      "item": "tech_odyssey_beyond_the_limits:titaniumplate"
+    },
+    "8": {
+      "item": "tech_odyssey_beyond_the_limits:titaniumrod"
+    }
+  },
+  "result": {
+    "item": "tech_odyssey_beyond_the_limits:base_center",
+    "count": 1
+  }
+}
