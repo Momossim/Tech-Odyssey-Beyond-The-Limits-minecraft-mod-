@@ -1,13 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " 1 ",
+    "012",
     "345",
-    " 7 "
+    "678"
   ],
   "key": {
+    "0": {
+      "item": "tech_odyssey_beyond_the_limits:titaniumrod"
+    },
     "1": {
       "item": "minecraft:ink_sac"
+    },
+    "2": {
+      "item": "tech_odyssey_beyond_the_limits:titaniumrod"
     },
     "3": {
       "item": "minecraft:magenta_glazed_terracotta"
@@ -18,8 +24,14 @@
     "5": {
       "item": "minecraft:white_stained_glass"
     },
+    "6": {
+      "item": "tech_odyssey_beyond_the_limits:titaniumrod"
+    },
     "7": {
       "item": "minecraft:paper"
+    },
+    "8": {
+      "item": "tech_odyssey_beyond_the_limits:titaniumrod"
     }
   },
   "result": {

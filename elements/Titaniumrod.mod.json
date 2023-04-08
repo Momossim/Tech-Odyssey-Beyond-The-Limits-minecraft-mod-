@@ -3,37 +3,32 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "deed",
+    "texture": "titaniumrodtextur",
     "customModelName": "Normal",
-    "name": "Deed",
-    "rarity": "EPIC",
+    "name": "Titanium rod",
+    "rarity": "COMMON",
     "creativeTab": {
-      "value": "No creative tab entry"
+      "value": "MISC"
     },
-    "stackSize": 1,
+    "stackSize": 64,
     "enchantability": 0,
     "useDuration": 0,
-    "toolType": 0.0,
+    "toolType": 1.0,
     "damageCount": 0,
     "recipeRemainder": {
       "value": ""
     },
     "destroyAnyBlock": false,
-    "immuneToFire": true,
+    "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
-    "specialInfo": [
-      "Use it on the Base center to certify your base"
-    ],
-    "hasGlow": true,
+    "specialInfo": [],
+    "hasGlow": false,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
-    "onRightClickedOnBlock": {
-      "name": "DeedRightclickedOnBlock"
-    },
     "isFood": false,
     "nutritionalValue": 4,
     "saturation": 0.3,

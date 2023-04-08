@@ -14,6 +14,7 @@ import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.BlockItem;
 
 import net.mcreator.techodysseybeyondthelimits.item.WipItem;
+import net.mcreator.techodysseybeyondthelimits.item.TitaniumrodItem;
 import net.mcreator.techodysseybeyondthelimits.item.TitaniumplateItem;
 import net.mcreator.techodysseybeyondthelimits.item.TitaniumSwordItem;
 import net.mcreator.techodysseybeyondthelimits.item.TitaniumShovelItem;
@@ -119,6 +120,9 @@ public class TechOdysseyBeyondTheLimitsModItems {
 	public static final RegistryObject<Item> HELLOBLOCK = block(TechOdysseyBeyondTheLimitsModBlocks.HELLOBLOCK,
 			TechOdysseyBeyondTheLimitsModTabs.TAB_TECHODYSSEY);
 	public static final RegistryObject<Item> DEED = REGISTRY.register("deed", () -> new DeedItem());
+	public static final RegistryObject<Item> TITANIUMROD = REGISTRY.register("titaniumrod", () -> new TitaniumrodItem());
+	public static final RegistryObject<Item> BASE_CENTER = block(TechOdysseyBeyondTheLimitsModBlocks.BASE_CENTER,
+			TechOdysseyBeyondTheLimitsModTabs.TAB_TECHODYSSEY);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

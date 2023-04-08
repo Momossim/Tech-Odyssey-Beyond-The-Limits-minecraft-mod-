@@ -10,13 +10,13 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "CUSTOM:Titaniumrod"
       },
       {
         "value": "Items.DYE#0"
       },
       {
-        "value": ""
+        "value": "CUSTOM:Titaniumrod"
       },
       {
         "value": "Blocks.MAGENTA_GLAZED_TERRACOTTA"
@@ -28,13 +28,13 @@
         "value": "Blocks.STAINED_GLASS#0"
       },
       {
-        "value": ""
+        "value": "CUSTOM:Titaniumrod"
       },
       {
         "value": "Items.PAPER"
       },
       {
-        "value": ""
+        "value": "CUSTOM:Titaniumrod"
       }
     ],
     "recipeReturnStack": {

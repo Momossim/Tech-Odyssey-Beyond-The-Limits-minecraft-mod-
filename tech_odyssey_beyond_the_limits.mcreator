@@ -963,6 +963,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "cake"
+    },
+    {
+      "name": "Titaniumrod",
+      "type": "item",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titaniumrod"
+    },
+    {
+      "name": "BaseCenter",
+      "type": "block",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "base_center"
     }
   ],
   "variable_elements": [],
@@ -983,8 +999,10 @@
       "item.tech_odyssey_beyond_the_limits.titanium_armor_boots": "Titanium Boots",
       "item.tech_odyssey_beyond_the_limits.ruby_pickaxe": "Ruby Pickaxe",
       "item.tech_odyssey_beyond_the_limits.peridot_armor_boots": "Peridot Boots",
+      "item.tech_odyssey_beyond_the_limits.titaniumrod": "Titanium rod",
       "block.tech_odyssey_beyond_the_limits.sapphire_ore": "Sapphire Ore",
       "item.tech_odyssey_beyond_the_limits.hammerh": "Hammer",
+      "block.tech_odyssey_beyond_the_limits.base_center": "Base Center",
       "item.tech_odyssey_beyond_the_limits.peridot_axe": "Peridot Axe",
       "item.tech_odyssey_beyond_the_limits.sapphire_armor_boots": "Sapphire Boots",
       "item.tech_odyssey_beyond_the_limits.deed": "Deed",
@@ -1050,8 +1068,10 @@
       "item.tech_odyssey_beyond_the_limits.titanium_armor_boots": "Titanium Boots",
       "item.tech_odyssey_beyond_the_limits.ruby_pickaxe": "Ruby Pickaxe",
       "item.tech_odyssey_beyond_the_limits.peridot_armor_boots": "Peridot Boots",
+      "item.tech_odyssey_beyond_the_limits.titaniumrod": "Titanium rod",
       "block.tech_odyssey_beyond_the_limits.sapphire_ore": "Sapphire Ore",
       "item.tech_odyssey_beyond_the_limits.hammerh": "Hammer",
+      "block.tech_odyssey_beyond_the_limits.base_center": "Base Center",
       "item.tech_odyssey_beyond_the_limits.peridot_axe": "Peridot Axe",
       "item.tech_odyssey_beyond_the_limits.sapphire_armor_boots": "Sapphire Boots",
       "item.tech_odyssey_beyond_the_limits.deed": "Deed",

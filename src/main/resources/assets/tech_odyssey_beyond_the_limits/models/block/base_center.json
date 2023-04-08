@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tech_odyssey_beyond_the_limits:blocks/basecentersides",
+    "up": "tech_odyssey_beyond_the_limits:blocks/basecentertoprectified",
+    "north": "tech_odyssey_beyond_the_limits:blocks/basecentersides",
+    "east": "tech_odyssey_beyond_the_limits:blocks/basecentersides",
+    "south": "tech_odyssey_beyond_the_limits:blocks/basecentersides",
+    "west": "tech_odyssey_beyond_the_limits:blocks/basecentersides",
+    "particle": "tech_odyssey_beyond_the_limits:blocks/basecentersides"
+  },
+  "render_type": "solid"
+}

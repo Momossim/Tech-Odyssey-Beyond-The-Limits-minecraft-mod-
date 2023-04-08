@@ -20,6 +20,7 @@ import net.mcreator.techodysseybeyondthelimits.block.Reallycompressedcobblestone
 import net.mcreator.techodysseybeyondthelimits.block.PeridotOreBlock;
 import net.mcreator.techodysseybeyondthelimits.block.PeridotBlockBlock;
 import net.mcreator.techodysseybeyondthelimits.block.HelloblockBlock;
+import net.mcreator.techodysseybeyondthelimits.block.BaseCenterBlock;
 import net.mcreator.techodysseybeyondthelimits.TechOdysseyBeyondTheLimitsMod;
 
 public class TechOdysseyBeyondTheLimitsModBlocks {
@@ -35,4 +36,5 @@ public class TechOdysseyBeyondTheLimitsModBlocks {
 	public static final RegistryObject<Block> REALLYCOMPRESSEDCOBBLESTONE = REGISTRY.register("reallycompressedcobblestone",
 			() -> new ReallycompressedcobblestoneBlock());
 	public static final RegistryObject<Block> HELLOBLOCK = REGISTRY.register("helloblock", () -> new HelloblockBlock());
+	public static final RegistryObject<Block> BASE_CENTER = REGISTRY.register("base_center", () -> new BaseCenterBlock());
 }

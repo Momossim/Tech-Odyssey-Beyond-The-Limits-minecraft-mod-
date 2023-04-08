@@ -35,6 +35,7 @@ import net.mcreator.techodysseybeyondthelimits.init.TechOdysseyBeyondTheLimitsMo
 import net.mcreator.techodysseybeyondthelimits.init.TechOdysseyBeyondTheLimitsModItems;
 import net.mcreator.techodysseybeyondthelimits.init.TechOdysseyBeyondTheLimitsModFeatures;
 import net.mcreator.techodysseybeyondthelimits.init.TechOdysseyBeyondTheLimitsModBlocks;
+import net.mcreator.techodysseybeyondthelimits.init.TechOdysseyBeyondTheLimitsModBlockEntities;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -56,6 +57,7 @@ public class TechOdysseyBeyondTheLimitsMod {
 		TechOdysseyBeyondTheLimitsModBlocks.REGISTRY.register(bus);
 		TechOdysseyBeyondTheLimitsModItems.REGISTRY.register(bus);
 
+		TechOdysseyBeyondTheLimitsModBlockEntities.REGISTRY.register(bus);
 		TechOdysseyBeyondTheLimitsModFeatures.REGISTRY.register(bus);
 
 		TechOdysseyBeyondTheLimitsModPaintings.REGISTRY.register(bus);
